@@ -3,6 +3,6 @@
 
 
 # Test Subjects 
-    2pdf 
-    one phto 
+    2 pdfs 
+    one photo 
 
